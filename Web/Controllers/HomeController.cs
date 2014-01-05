@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace Web.Controllers
 {
     /// <summary>
-    /// 
+    /// lalala
     /// </summary>
     public class HomeController : Controller
     {
